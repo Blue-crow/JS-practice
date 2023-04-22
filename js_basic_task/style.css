@@ -1,0 +1,8 @@
+a {
+    font-size: 25px;
+    border: 1px solid transparent; /* Прозрачная рамка вокруг ссылок */
+}
+a:hover {
+    background-color: cornflowerblue; 
+}
+
